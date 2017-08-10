@@ -1,0 +1,6 @@
+[package]
+name = "stupid-shell"
+version = "0.1.0"
+authors = ["Seth Henderson <springbov@gmail.com>"]
+
+[dependencies]
